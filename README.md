@@ -4,4 +4,4 @@ PERSONNAL PORFOLIOS
 
 On Construction...
 
-![Alt text](/posts/docs/assets/Capture d’écran du 2024-03-02 08-22-35.png"capture")
+<img src="docs/assets/Capture d'écran du 2024-03-02 08-22-35.png" alt="capure" title="Optional title">
