@@ -5,4 +5,4 @@ PERSONNAL PORFOLIOS
 On Construction...
 
 
-![Alt text](/public/docs/assets/screen01.png "Optional title")
+![Alt text](docs/assets/screen01.png "Optional title")
